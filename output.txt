@@ -1,0 +1,22 @@
+nat@NatsMacokSweaty Sleeping Barber % java sleepingBarber 8 4  
+Nap time is 8, and there are 4 chairs
+The barber is sleeping
+Customer Thread-2 enters the shop at Thu Nov 11 23:30:19 CST 2021
+Customer Thread-2 gets a chair
+Customer Thread-3 enters the shop at Thu Nov 11 23:30:22 CST 2021
+Customer Thread-3 gets a chair
+Customer Thread-4 enters the shop at Thu Nov 11 23:30:22 CST 2021
+Customer Thread-4 gets a chair
+Customer Thread-5 enters the shop at Thu Nov 11 23:30:26 CST 2021
+Customer Thread-5 gets a chair
+The barber starts cutting hair at Thu Nov 11 23:30:27 CST 2021
+Customer Thread-2 gets their hair cut
+Customer Thread-6 enters the shop at Thu Nov 11 23:30:28 CST 2021
+Customer Thread-6 gets a chair
+Customer Thread-7 enters the shop at Thu Nov 11 23:30:34 CST 2021
+Customer Thread-7 does not get a seat and leaves the shop
+The barber is done cutting hair at Thu Nov 11 23:30:35 CST 2021
+The barber starts cutting hair at Thu Nov 11 23:30:35 CST 2021
+Customer Thread-3 gets their hair cut
+Customer Thread-8 enters the shop at Thu Nov 11 23:30:38 CST 2021
+Customer Thread-8 gets a chair
